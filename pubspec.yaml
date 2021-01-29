@@ -27,7 +27,11 @@ dependencies:
   google_fonts: ^1.1.1
   percent_indicator: ^2.1.8
   url_launcher: ^5.7.10
-  wave: ^0.1.0
+  wave:
+    git:
+      url: https://github.com/searchy2/wave.git
+      ref: master
+  
 
 
   # The following adds the Cupertino Icons font to your application.
