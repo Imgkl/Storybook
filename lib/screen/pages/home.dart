@@ -13,7 +13,7 @@ class Home extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Center(
-            child: Text("\n\n\n\n\nFlCatalogue,",
+            child: Text("\n\n\n\n\nStorybook,",
                 style: GoogleFonts.quicksand(
                     fontStyle: FontStyle.italic,
                     fontWeight: FontWeight.bold,
